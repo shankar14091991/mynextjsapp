@@ -8,7 +8,7 @@ export default function FirstPost() {
   return (
     <div className="container">
       <Head>
-        <title> This is Level 1</title>
+        <title> This is a bit about Vercel</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
